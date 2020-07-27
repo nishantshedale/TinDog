@@ -172,4 +172,19 @@ p {
     transform: rotate(0deg);
   }
 }
+@media (max-width: 375px){
+  .testimonial-image {
+  width: 35px;
+  border-radius: 50%;
+  height: 20vh;
+  margin: 20px;
+}
+  .testimonial-image-dog{
+  width: 20px;
+  border-radius: 50%;
+  height: 20vh;
+  margin: 20px;
+}
+}
+
 
