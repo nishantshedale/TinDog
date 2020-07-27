@@ -108,15 +108,13 @@ p {
   background-color: #ef8172;
 }
 .testimonial-image {
-  width: 15%;
-  border-radius: 50%;
-  height: 20vh;
+  width: 50%;
+  border-radius: 100%;
   margin: 20px;
 }
 .testimonial-image-dog{
-  width: 10%;
-  border-radius: 50%;
-  height: 20vh;
+  width: 50%;
+  border-radius: 100%;
   margin: 20px;
 }
 
